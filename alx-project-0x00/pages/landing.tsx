@@ -8,9 +8,9 @@ const Landing: React.FC =  () => {
       <Card />
       <Card />
       <Card />
-      <Button title="Click me" style="w-[100px]  rounded-sm"/>
-      <Button title="Click me" style="w-[200px]  rounded-md"/>
-      <Button title="Click me" style="w-[300px]  rounded-full"/>
+      <Button title="Click me" styles="w-[100px]  rounded-sm"/>
+      <Button title="Click me" styles="w-[200px]  rounded-md"/>
+      <Button title="Click me" styles="w-[300px]  rounded-full"/>
     </div>
   )
 }

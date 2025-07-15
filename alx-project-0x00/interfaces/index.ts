@@ -4,5 +4,5 @@ export interface PillProps {
 
 export interface ButtonProp {
   title: string,
-  style: string
+  styles: string
 }
